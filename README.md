@@ -11,5 +11,28 @@ de tener X,Y y en algunos casos el diametro y tambien utilizando la herramienta 
 Despues decidi buscar la paleta de colores de bauhaus y decidi usar los mismos codigos de colores pasandolos a la pagina web de HTML COLOR CODE , teniendo todo eso 
 empece a pasar todo a P5 con los codigos enseñados en la clase y usando como apoyo el PPT , se me dificulto mucho el proceso de entender los semicirculos "ARC()"  ya que 
 se me habia olvidado poner el programa inicial "angleMode(DEGREES)". No fue un trabajo tan dificil si no que requeria mucho tiempo y tambien presicion para las cordenadas 
-y que tambien quede todo de buena manera y encaje todo 
+y que tambien quede todo de buena manera y encaje todo.
+
+Disfrute mucho el trabajo aunque me diera mil vueltas para poder terminarlo pero con musica de fondo se me hizo divertido 
+
+## IMAGEN DEL TRABAJO EN LA HOJA
+<img width="853" height="792" alt="image" src="https://github.com/user-attachments/assets/7c77f697-9b38-4b7e-b9b7-c4c9b839a250" />
+
+
+## IMAGEN DELE TRABAJO TRASPASADO A AI
+<img width="1917" height="851" alt="Sin título" src="https://github.com/user-attachments/assets/95338d53-4a07-4bff-8e1d-5ee2a5bbe3cf" />
+
+## RESULTADO FINAL EN P5 
+<img width="1338" height="683" alt="image" src="https://github.com/user-attachments/assets/d7374a13-352a-4621-8016-f833c60380a2" />
+
+### LINK P5 
+https://editor.p5js.org/adrianoespinoza-rgb/sketches/7bo3aoPi8
+
+
+
+
+
+
+
+
 
